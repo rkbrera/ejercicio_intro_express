@@ -4,6 +4,8 @@
   "description": "Ejercicio de practica usando Express y NodeJS",
   "main": "app.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "rkbrera",
